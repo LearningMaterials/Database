@@ -20,10 +20,10 @@
 ---
 # MongoDB：  
 - 创建数据库：school  
-- 建立学生表：student（id,name,sex,age,class）  
+- 建立集合：student（id,name,sex,age,class）  
 
 ## 要求：  
-1. 用命令插入下列数据到class、student表中  
+1. 用命令插入下列文档到student集合中  
 ```
 [{id:1,name:”小明”,sex:“男”,age:”21”,class:”软件1班”},{id:2,name:”小花”,sex:“女”,age:”22”,class:”软件2班”}]
 ```
